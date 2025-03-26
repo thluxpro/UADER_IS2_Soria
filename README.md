@@ -10,6 +10,8 @@ Este repositorio contiene un programa en Python que calcula números primos.
 ### 🔧 Instalación y Uso  
 1. Clona el repositorio:  
    git clone https://github.com/thluxpro/UADER_IS2_Soria.git
-   cd tu-repositorio
+2.Ubicate dentro la carpeta donde lo copiaras
+cd tu-repositorio
+3.Ejecuta el prgrama
    python3 primos.py
 
